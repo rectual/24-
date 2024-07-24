@@ -9,10 +9,5 @@
 #include "common.h"
 
 
-/* ÄÚºËÆµÂÊ */
-uint32 sys_clk = 0;
-
-/* ÖÐ¶Ï×´Ì¬ */
-PFIC_IRQ_TypeDef irq_status = {0,0,0};
-
+fasfdsadf
 
